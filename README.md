@@ -22,7 +22,11 @@ A step by step series of examples that tell you have to get a development env ru
 <script src="path/to/your/directory/jquery-slug.min.js"></script>
 ```
 
-Sample configuration
+## Running the tests
+
+This is how you can use the default configuration or make your custom configuration
+
+Default configuration
 
 ```
 $("#this").mirror();
@@ -35,30 +39,6 @@ $("#this").mirror({
 	
 });
 ```
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
