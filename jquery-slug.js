@@ -1,3 +1,10 @@
+/*
+ * Created by Kadek Pradnyana
+ * Version 1.0.0
+ * This project was created with Coffee and Beer
+ */
+
+
 ! function(a) {
     a.fn.mirror = function(b) {
         function d(a) {
