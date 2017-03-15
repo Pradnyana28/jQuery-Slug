@@ -36,13 +36,17 @@ Custom configuration
 
 ```
 $("#this").mirror({
-	
+	prefix: 'http://',
+	textTransform: 'lowercase',
+	output: '.output-mirror',
+	outputDisabled: false,
+	seoUrl: true
 });
 ```
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/Pradnyana28/jQuery-Slug/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Pradnyana28/jQuery-Slug/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
